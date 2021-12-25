@@ -44,9 +44,9 @@ namespace maqueen {
     }
 
     export enum Motors {
-        //% blockId="left motor" block="left"
+        //% block="left"
         M1 = 0,
-        //% blockId="right motor" block="right"
+        //% block="right"
         M2 = 1,
         //% blockId="all motor" block="all"
         All = 2
