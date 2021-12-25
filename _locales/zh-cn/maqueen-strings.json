@@ -1,4 +1,5 @@
 {
     "maqueen.Motors.M2|block": "右右侧",
-    "maqueen.Motors.M1|block": "左左侧"
+    "maqueen.Motors.M1|block": "左左侧",
+    "{id:category}maqueen": "麦昆"
 }
