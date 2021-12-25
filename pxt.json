@@ -1,16 +1,15 @@
 {
-    "name": "pxt-test-master",
-    "version": "0.0.0",
-    "description": "",
+    "name": "maqueen",
+    "version": "1.7.0",
+    "description": "Affordable mini robot designed by DFRobot",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "ir": "github:tangjie133/pxt-DFRobot_IR#v0.0.7"
     },
     "files": [
-        "README.md",
-        "main.blocks",
-        "main.ts"
+        "main.ts",
+        "_locales/zh-cn/maqueen-strings.json"
     ],
     "testFiles": [
         "test.ts"
@@ -23,5 +22,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
